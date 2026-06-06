@@ -3,4 +3,4 @@ merge conflict test
 
 helo, how are you?
 
-I am fine
+I am fine.
