@@ -4,4 +4,4 @@ merge conflict test
 Hey Hello How are you?
 helo, how are you?
 
-I am fine. How are you?
+I am fine..
